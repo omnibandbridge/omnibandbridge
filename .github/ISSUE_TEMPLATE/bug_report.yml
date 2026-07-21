@@ -1,0 +1,73 @@
+name: 🐞 Bug report
+description: Report a problem with OmniBandBridge
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve OmniBandBridge!
+        ⚠️ **Remove your Auth key and any personal data** from logs/captures before posting.
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: I searched existing issues and didn't find a duplicate.
+          required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: OBB app version
+      placeholder: "e.g. 1.2.3 (More → About)"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Android
+        - iOS
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Phone model & OS version
+      placeholder: "e.g. Pixel 9, Android 16"
+    validations:
+      required: true
+  - type: dropdown
+    id: band
+    attributes:
+      label: Mi Band model
+      options:
+        - Mi Band 10
+        - Mi Band 9
+        - Other / not applicable
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: A clear description of the bug, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Bluetooth HCI capture (optional)
+      description: Attach any relevant logs. Remember to strip your Auth key / personal data.
+      render: shell
