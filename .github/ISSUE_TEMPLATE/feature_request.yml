@@ -40,7 +40,7 @@ body:
         - Zwift (RSC / DirCon / FTMS)
         - Treadmill (FTMS / manual speed & incline)
         - Export (TCX / CSV / FIT)
-        - Diario AI (local MCP)
+        - AI Journal (local MCP)
         - Profile / thresholds / zones
         - Other
     validations:
