@@ -1,0 +1,47 @@
+name: 💡 Feature request
+description: Suggest an idea or improvement
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an open-ended idea you'd like others to vote on? Consider **Discussions → Ideas** instead.
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Before you start
+      options:
+        - label: I searched existing issues and Discussions and didn't find a duplicate.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / use case
+      description: What are you trying to do? What's missing or hard today?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Footpod / real-time data
+        - Zwift (RSC / DirCon / FTMS)
+        - Treadmill (FTMS / manual speed & incline)
+        - Export (TCX / CSV / FIT)
+        - Diario AI (local MCP)
+        - Profile / thresholds / zones
+        - Other
+    validations:
+      required: true
