@@ -16,9 +16,9 @@ Open a **[New issue](../../issues/new/choose) → Bug report**. Please include y
 Use **[Discussions → Q&A](../../discussions/categories/q-a)** (not issues).
 
 ## 🔗 Links
-- 🌐 Website & docs: https://omnibandbridge.com
-- 🔒 Privacy policy: https://omnibandbridge.com/privacy *(coming soon)*
-- 📥 Download: *(Google Play — coming soon)*
+- Website & docs: https://omnibandbridge.com
+- Privacy policy: https://omnibandbridge.com/privacy *(coming soon)*
+- Download: *(Google Play — coming soon)*
 
 ---
 *OmniBandBridge is not affiliated with Xiaomi, Zwift or any third party. Product names and trademarks belong to their respective owners.*
