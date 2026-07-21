@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & help
+    url: https://github.com/omnibandbridge/omnibandbridge/discussions/categories/q-a
+    about: Ask a question or get help — please use Discussions, not issues.
+  - name: 💡 Ideas & feature voting
+    url: https://github.com/omnibandbridge/omnibandbridge/discussions/categories/ideas
+    about: Propose and vote on open-ended ideas in Discussions.
+  - name: 📖 Docs & website
+    url: https://omnibandbridge.com
+    about: Guides, FAQ and setup (Zwift, Diario AI, exports).
