@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/social_preview_2.png" alt="OmniBandBridge — Free your Mi Band" width="720">
+</p>
+
 # OmniBandBridge (OBB) — community & issue tracker
 
 **Free your Mi Band.** OmniBandBridge streams real-time footpod data (cadence, pace, running power) from your Xiaomi Mi Band to Zwift (BLE RSC / DirCon) and exports your workouts. On a treadmill it also handles belt speed & incline (FTMS sensor or manual) — usable even purely as an FTMS/treadmill bridge.
