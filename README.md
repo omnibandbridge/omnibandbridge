@@ -7,9 +7,9 @@
 **Free your Band!** OmniBandBridge (OBB) acquires real-time running & walking data (cadence, speed, stride) and retransmits it using open protocols (BLE RSC / TCP) to third party platforms like Zwift. Running & walking dynamics (included advanced parameters like GCT - Ground Contact Time, impact, VO - Vertical Oscillation, VR - Vertical Rate, etc.) are fused with data from other sensors like Heart Rate and treadmill's belt speed & incline (FTMS sensor or manual) to compute a personalized metabolic-power metric. All sensor data are exported into your workouts for AI-based analyses.
 
 SUPPORTED SOURCES FOR RUNNING/WALKING DYNAMICS
-- **Xiaomi Mi Band 8, 9 and 10** (wrist & footpod mode) and Pro/Active variants (wrist only)
+- **Xiaomi Mi Bands 8, 9 and 10** (wrist & footpod mode) and Pro/Active variants (wrist only)
 - **Garmin watches** (native for devices supporting "Virtual Run" activity, via the OBB Companion App available on Garmin IQ Store for devices not supporting "Virtual Run")  
-- **Atlas footpod** embedded in Under Armour HOVR shoes
+- **Atlas footpods** embedded in Under Armour HOVR shoes
 
 
 > ℹ️ **This repository has no source code.** OmniBandBridge is closed-source. This is the **public community & issue tracker** used to report bugs, request features, ask questions and follow future roadmaps.
