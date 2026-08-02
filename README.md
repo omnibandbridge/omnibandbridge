@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/social_preview_2.png" alt="OmniBandBridge — Free your Mi Band" width="720">
+  <img src="assets/feature_graphic_1311x640.png" alt="OmniBandBridge — Free your Mi Band" width="720">
 </p>
 
 # Community & issue tracker
