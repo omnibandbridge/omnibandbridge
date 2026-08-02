@@ -31,4 +31,4 @@ Use **[Discussions → Q&A](../../discussions/categories/q-a)** (not issues).
 - Download: *(Google Play — coming soon)*
 
 ---
-*OmniBandBridge is not affiliated with Xiaomi, Zwift or any third party. Product names and trademarks belong to their respective owners.*
+*OmniBandBridge is not affiliated with Xiaomi, Garmin, Under Armour, Zwift or any third party. Product names and trademarks belong to their respective owners.*
