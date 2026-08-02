@@ -14,7 +14,7 @@ SUPPORTED SOURCES FOR RUNNING/WALKING DYNAMICS
 
 > ℹ️ **This repository has no source code.** OmniBandBridge is closed-source. This is the **public community & issue tracker** used to report bugs, request features, ask questions and follow future roadmaps.
 
-## Join the [preview version (Closed Beta)](https://github.com/omnibandbridge/omnibandbridge/discussions/1#discussion-10540993) to get the App for Android on Google Play! ##
+## Join the [Closed Beta](https://github.com/omnibandbridge/omnibandbridge/discussions/1#discussion-10540993) to download the preview version of the Android App from Google Play! ##
 
 ## 🐞 Report a bug
 Open a **[New issue](../../issues/new/choose) → Bug report**. Please include your app version, phone/OS, Mi Band model and steps to reproduce.
