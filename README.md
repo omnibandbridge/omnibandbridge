@@ -4,7 +4,7 @@
 
 # Community & issue tracker
 
-**Free your Mi Band.** OmniBandBridge streams real-time footpod data (cadence, pace, running power) from your Xiaomi Mi Band to Zwift (BLE RSC / DirCon) and exports your workouts. On a treadmill it also handles belt speed & incline (FTMS sensor or manual) — usable even purely as an FTMS/treadmill bridge.
+**Free your Band!** OmniBandBridge (OBB) acquires real-time running & walking data (cadence, speed, stride) and retransmits it using open protocols (BLE RSC / TCP) to third party platforms like Zwift. Running & walking dynamics (included advanced parameters like GCT - Ground Contact Time, impact, VO - Vertical Oscillation, VR - Vertical Rate, etc.) are fused with data from other sensors like Heart Rate and treadmill's belt speed & incline (FTMS sensor or manual) to compute a personalized metabolic-power metric. All sensor data are exported into your workouts for AI-based analyses.
 
 > ℹ️ **This repository has no source code.** OmniBandBridge is closed-source. This is the **public community & issue tracker**: the place to report bugs, request features, ask questions and follow the roadmap.
 
