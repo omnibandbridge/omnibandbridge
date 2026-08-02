@@ -9,10 +9,10 @@
 SUPPORTED SOURCES FOR RUNNING/WALKING DYNAMICS
 - Xiaomi Mi Band 8, 9 and 10 (wrist & footpod mode) and Pro/Active variants (wrist only)
 - Garmin watches (native for devices supporting "Virtual Run" activity, via Garmin IQ OBB Companion App for devices not supporting "Virtual Run")  
-- Atlas sensor embedded in Under Armour HOVR shoes
+- Atlas footpod embedded in Under Armour HOVR shoes
 
 
-> ℹ️ **This repository has no source code.** OmniBandBridge is closed-source. This is the **public community & issue tracker**: the place to report bugs, request features, ask questions and follow the roadmap.
+> ℹ️ **This repository has no source code.** OmniBandBridge is closed-source. This is the **public community & issue tracker** used to report bugs, request features, ask questions and follow future roadmaps.
 
 ## 🐞 Report a bug
 Open a **[New issue](../../issues/new/choose) → Bug report**. Please include your app version, phone/OS, Mi Band model and steps to reproduce.
